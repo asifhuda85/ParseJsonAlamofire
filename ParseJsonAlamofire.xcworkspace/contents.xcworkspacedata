@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:ParseJsonAlamofire.xcodeproj">
+      location = "group:/Users/ASIF/Desktop/Code Excersize/ParseJsonAlamofire/ParseJsonAlamofire">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
